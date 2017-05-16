@@ -1,0 +1,151 @@
+
+	
+	body {
+		
+		margin: 0 auto;
+		padding: 0;
+		width: 75%;
+		position: center;
+		background: url("DSC_0665.JPG") top center no-repeat;
+		background-size: 135%;
+		background-attachment: fixed;
+		height:auto !important;
+		background-color: orange;
+		color: black;
+		font-size: 18px;
+		font-family: Georgia, Serif;
+		color: white;
+		text-shadow: 1px 1px black;
+	}
+		
+
+	#zen-intro h1, h2 {
+		
+		float: left;
+		position: relative;
+		top: -25px;
+		background-color: white;
+		width: 100%;
+		margin: 0;
+		padding: 20px;
+		opacity: 0.5;
+		font-family: Georgia, Serif;
+		color: orange;
+		text-shadow: 1px 1px black;
+	}
+		
+		
+	#zen-summary {
+		
+		position: relative;
+		font-size: 13px;
+		width: 200px;
+		top: -150px;
+		left: 80%;
+		text-shadow: 1px 1px black;
+	}
+		
+	a {
+		text-decoration: none;
+		font-weight: bold;
+		color: lightgreen;
+		
+	}
+	a:visited {
+		color: lightgreen;
+	}
+	
+	a:hover {
+		background-color: orange;
+	}
+	
+	
+	h3 {
+		color: orange;
+		text-shadow: 1px 1px black;
+		font-size: 24px;
+	}
+		
+	
+	#zen-preamble {
+		position: relative;
+		width: 40%;
+		top: -100px;
+		float: left;
+		padding: 0 30px;
+	}
+	
+	
+	#zen-explanation {
+		position: relative;
+		float: left;
+		width: 40%;
+		top: -110px;
+		padding: 0 20px;
+		margin-left: 40px;
+		
+	}
+	
+	
+	#zen-participation {
+		position: relative;
+		top: -120px;
+		float: left;
+		padding: 0 10px 0 30px;
+	}
+	
+	#zen-benefits {
+		float: left;
+		position: relative;
+		top: -110px;
+		padding: 0 30px;
+	}
+	
+	
+	#zen-requirements {
+		float: left;
+		position: relative;
+		top: -110px;
+		text-align: center;
+		margin: 30px;
+	}
+	
+	footer a {
+		position: relative;
+		left: 200px;
+		bottom: 80px;
+		margin: 0 50px;
+	}
+	
+	.sidebar {
+
+		font-size: 15px;
+		color: lightgreen;
+		
+	}
+	
+	.sidebar h3 {
+		font-size: 1.2em;
+	}
+	
+	li {
+		list-style-type: none;
+	}
+	
+	#design-selection {
+		position: relative;
+		float: right;
+		width: 33%;
+	}
+	
+	#design-archives {
+		position: relative;
+		float: right;
+		width: 33%;
+	}
+	
+	#zen-resources {
+		position: relative;
+		float: right;
+		width: 33%;
+	}
